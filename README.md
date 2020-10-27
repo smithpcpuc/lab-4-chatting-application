@@ -1,6 +1,6 @@
 Chatting Application
 =====================
-![Assignment Checks](https://s///github.com/Leach-IT3049C/4-chatting-application-smithpcpuc/workflows/Assignment%20Checks/badge.svg)
+![Assignment Checks](https://s///github.com/smithpcpuc/lab-4-chatting-application/workflows/Assignment%20Checks/badge.svg)
 
 Instructions to this assignment can be found [here](#).
 
